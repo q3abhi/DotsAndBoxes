@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotsAndBoxes", "DotsAndBoxes\DotsAndBoxes.csproj", "{D39C8CD6-7808-46DD-8D0B-0B6206B85585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotsAndBoxesServices", "DotsAndBoxesEngine\DotsAndBoxesServices.csproj", "{83404119-0D02-4075-A01B-C13297C1EEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotsAndBoxesModels", "DotsAndBoxesModels\DotsAndBoxesModels.csproj", "{FF15A8FC-DD10-4230-B144-A05DDF2014E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39C8CD6-7808-46DD-8D0B-0B6206B85585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39C8CD6-7808-46DD-8D0B-0B6206B85585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39C8CD6-7808-46DD-8D0B-0B6206B85585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39C8CD6-7808-46DD-8D0B-0B6206B85585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83404119-0D02-4075-A01B-C13297C1EEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83404119-0D02-4075-A01B-C13297C1EEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83404119-0D02-4075-A01B-C13297C1EEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83404119-0D02-4075-A01B-C13297C1EEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF15A8FC-DD10-4230-B144-A05DDF2014E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF15A8FC-DD10-4230-B144-A05DDF2014E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF15A8FC-DD10-4230-B144-A05DDF2014E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF15A8FC-DD10-4230-B144-A05DDF2014E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
